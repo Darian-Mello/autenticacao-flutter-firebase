@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "5287534071",
+    "project_id": "autenticacaoflutter-33639",
+    "storage_bucket": "autenticacaoflutter-33639.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:5287534071:android:9c314c386257a42c1062f2",
+        "android_client_info": {
+          "package_name": "br.edu.ifsul.autenticacaoemail"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS1gSHYZpTT0q8jnhFLtDiJRC6aDJVkQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
